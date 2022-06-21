@@ -1,0 +1,53 @@
+.Header{
+    font-size: 23px;
+    background-color: aqua;
+    color: red;
+    text-align: center;
+}
+
+.Loginform{
+    text-align: center;
+    background-image: url("logo192.png");
+}
+
+.SignUp
+{
+    text-align: center;
+    background-image: url("logo192.png");
+}
+
+.Footer
+{
+   background-color: beige;
+   font-family: Arial;
+   text-align: center;
+}
+
+.Button
+{
+    background-color: #4CAF50; 
+  border: none;
+  border-radius: 12px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  
+  
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+.Welcome{
+    text-align: center;
+    background-image: url("logo192.png");
+}
+.Wfooter
+{
+    background-color: beige;
+   font-family: Arial;
+   text-align: center;
+   top: 35%;
+}
